@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=0BC5EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aayush+Kamboj;Keep+learning%2C+keep+growing.;Dream.+Focus.+Repeat." alt="Typing SVG" />
 </p>
-## Connect with Me
+<h2>🔗Connect with Me</h2>
 
 <p align="center">
   <a href="kambojaayush42@gmail.com" title="Gmail">
