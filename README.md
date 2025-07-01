@@ -18,3 +18,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=0BC5EA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aayush+Kamboj;Keep+learning%2C+keep+growing.;Dream.+Focus.+Repeat." alt="Typing SVG" />
 </p>
+
+## Connect with Me
+
+<p align="center">
+  <a href="kambojaayush42@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aayushkamboj2135/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/coder2135" target="_blank" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ayush-2004_/" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
