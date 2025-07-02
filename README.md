@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500px">
 <h1 align="center"><font size="10"><b>👋 Hi, I'm Aayush Kamboj aka coder2135</b></font></h1>
 <hr>
 <h2>🛠 Languages and Tools:</h2>
